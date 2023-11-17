@@ -1,0 +1,12 @@
+# Environment
+venv/
+
+# Cache
+**/__pycache__/
+.pytest_cache
+
+# Database
+db.sqlite3
+
+# VSCode
+.vscode/
